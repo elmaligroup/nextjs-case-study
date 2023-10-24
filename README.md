@@ -41,17 +41,8 @@ npm install
 
 npm run dev
 
-```
-
 ile kurulup yapıp çalıştırılır
-
-
-
-
-
 
 ## Step 3 - Yardım Alınabilecek Kaynaklar
 
 NextJS ve TailwindCSS için offical ve diğer dökümanları inceleyebilir veya bir method hakkında AI yardımı alabilirsiniz ancak <strong>KODU YAPAY ZEKAYA</strong> yazdırmamanızı rica ediyoruz.
-
-```
