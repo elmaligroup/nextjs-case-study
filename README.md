@@ -31,6 +31,7 @@
 
 # önce
 
+```
 git clone "fork github repo link"
 
 # sonra
@@ -40,6 +41,7 @@ npm install
 # sonra
 
 npm run dev
+```
 
 ile kurulup yapıp çalıştırılır
 
