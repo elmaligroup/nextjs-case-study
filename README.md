@@ -1,50 +1,29 @@
-## Adım 1 - Case Study Hakkında
-```
-    Case Study olarak bir CRUD ekranı yapacağız.
+# Step 1 - About the Case Study
 
-    CRUD Nedir ?
-    <ol>
-        <li>Create</li>
-        <li>Read</li>
-        <li>Update</li>
-        <li>Delete</li>
-    </ol>
-    Fonksiyonlarının kısaltılmış halidir.Örnek olarak kullanıcıları listelediğimiz bir sayfa düşünelim ve bu sayfada :
-    -Kullanıcıları Listelediğimizde bu kullanıcı verilerini <strong>Read</strong> etmiş oluruz
-    -Yeni bi kullanıcı eklersek <strong>Create</strong> işlemi yapmış oluruz
-    -Mevcut bir kullanıcının bilgilerini editlersek <strong>Update</strong> yapmış oluruz
-    -Bir kullanıcı silersek <strong>Delete</strong> etmiş oluruz
+In this case study, we will be creating a CRUD interface.
 
-    Sizden verilen tasarımın aynısını veya benzerini bekliyoruz.Tasarım responsive ve cross browser şekilde güzelce çalışıyor olmalıdır.
-    <a href="#">Buradaki Link</a> ile figma tasarımlarına ulaşabilirsiniz.
-```
-## Step 2 - Kurulum ve Paketler
+### What is CRUD?
 
-    Projedeki Teknolojiler :
-    <ol>
-        <li>NextJS 13.5.4</li>
-        <li>Typescript</li>
-        <li>TailwindCSS</li>
-    </ol>
+CRUD stands for Create, Read, Update, and Delete. These are abbreviated functions. For example, let's consider a page that lists users. On this page:
 
-    Kurulum İçin :
+- When we list users, we are performing a "Read" operation.
+- When we add a new user, we are performing a "Create" operation.
+- When we edit the information of an existing user, we are performing an "Update" operation.
+- When we delete a user, we are performing a "Delete" operation.
 
-# önce
+We expect the design to be the same or similar to the one provided. The design should be responsive and work seamlessly across different browsers. You can access the Figma designs through the following [link](#).
 
-```
-git clone "fork github repo link"
+### Step 2 - Installation and Packages
 
-# sonra
+The technologies used in this project are:
 
-npm install
+- NextJS 13.5.4
+- TypeScript
+- TailwindCSS
 
-# sonra
+To install the project, follow these steps:
 
-npm run dev
-```
-
-ile kurulup yapıp çalıştırılır
-
-## Step 3 - Yardım Alınabilecek Kaynaklar
-
-NextJS ve TailwindCSS için offical ve diğer dökümanları inceleyebilir veya bir method hakkında AI yardımı alabilirsiniz ancak <strong>KODU YAPAY ZEKAYA</strong> yazdırmamanızı rica ediyoruz.
+1. Clone the GitHub repository:
+   ```bash
+   git clone [forked GitHub repo link]
+   ```
