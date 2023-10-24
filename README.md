@@ -27,3 +27,11 @@ To install the project, follow these steps:
    ```bash
    git clone [forked GitHub repo link]
    ```
+   2. Install Modules:
+   ```bash
+   npm install
+   ```
+   3. Run Project on Dev Enviroment
+   ```bash
+   npm run dev
+   ```
