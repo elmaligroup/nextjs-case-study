@@ -1,4 +1,4 @@
-## Adım 1 - Case Study Hakkında
+Adım 1 - Case Study Hakkında
 
     Case Study olarak bir CRUD ekranı yapacağız.
 
@@ -18,7 +18,7 @@
     Sizden verilen tasarımın aynısını veya benzerini bekliyoruz.Tasarım responsive ve cross browser şekilde güzelce çalışıyor olmalıdır.
     <a href="#">Buradaki Link</a> ile figma tasarımlarına ulaşabilirsiniz.
 
-## Step 2 - Kurulum ve Paketler
+Adım 2 - Kurulum ve Paketler
 
     Projedeki Teknolojiler :
     <ol>
@@ -45,6 +45,6 @@ npm run dev
 
 ile kurulup yapıp çalıştırılır
 
-## Step 3 - Yardım Alınabilecek Kaynaklar
+Adım 3 - Yardım Alınabilecek Kaynaklar
 
 NextJS ve TailwindCSS için offical ve diğer dökümanları inceleyebilir veya bir method hakkında AI yardımı alabilirsiniz ancak <strong>KODU YAPAY ZEKAYA</strong> yazdırmamanızı rica ediyoruz.
